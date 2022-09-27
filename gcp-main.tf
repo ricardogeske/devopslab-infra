@@ -1,5 +1,5 @@
 resource "google_app_engine_application" "app" {
-  project     = "labdevopscloud"
+  project     = "labdevopscloud-geske"
   location_id = "us-central"
 }
 
